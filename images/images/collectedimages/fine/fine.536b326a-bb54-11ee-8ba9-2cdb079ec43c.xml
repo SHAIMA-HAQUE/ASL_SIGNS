@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fine</folder>
+	<filename>fine.536b326a-bb54-11ee-8ba9-2cdb079ec43c.jpg</filename>
+	<path>D:\Projects\TFODCourse\Tensorflow\workspace\images\collectedimages\fine\fine.536b326a-bb54-11ee-8ba9-2cdb079ec43c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>272</ymin>
+			<xmax>396</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
