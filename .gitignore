@@ -1,3 +1,4 @@
 images/
 /dataset.zip
 /cnn_10_epochs.h5
+/cnn_10_epochs.keras
