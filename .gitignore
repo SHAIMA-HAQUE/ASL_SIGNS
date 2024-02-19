@@ -1,2 +1,3 @@
 images/
 /dataset.zip
+/cnn_10_epochs.h5
