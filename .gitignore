@@ -4,3 +4,5 @@ images/
 /cnn_10_epochs.keras
 Split_Data/
 Shaima-asl-signs.zip
+logs
+images-fresh-Shaima-CNN
